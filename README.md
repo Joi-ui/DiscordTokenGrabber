@@ -1,7 +1,10 @@
 # DiscordTokenGrabber
-A discord token grabber written in C++.  
+A discord token grabber written in C++. 
+
 It searches for tokens in Discord, Discord PTB, Discord Canary, Chrome, Opera, Brave and Yandex directories. Once it finds a token, it sends it to your webhook.  
+
 Faster and better performance than a Python token grabber and a smaller file size.  
+
 HOW TO USE: 
 1 - Make sure you have Visual Studio 2019 with C++ installed. 
 2 - Open the .sln project and then open the Token-Disc.cpp file. 
